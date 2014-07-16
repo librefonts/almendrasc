@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="AlmendraSC-BoldItalic.ttf.GlyphOrder.ttx"/>
+  <head src="AlmendraSC-BoldItalic.ttf._h_e_a_d.ttx"/>
+  <hhea src="AlmendraSC-BoldItalic.ttf._h_h_e_a.ttx"/>
+  <maxp src="AlmendraSC-BoldItalic.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="AlmendraSC-BoldItalic.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="AlmendraSC-BoldItalic.ttf._h_m_t_x.ttx"/>
+  <cmap src="AlmendraSC-BoldItalic.ttf._c_m_a_p.ttx"/>
+  <prep src="AlmendraSC-BoldItalic.ttf._p_r_e_p.ttx"/>
+  <loca src="AlmendraSC-BoldItalic.ttf._l_o_c_a.ttx"/>
+  <glyf src="AlmendraSC-BoldItalic.ttf._g_l_y_f.ttx"/>
+  <name src="AlmendraSC-BoldItalic.ttf._n_a_m_e.ttx"/>
+  <post src="AlmendraSC-BoldItalic.ttf._p_o_s_t.ttx"/>
+  <gasp src="AlmendraSC-BoldItalic.ttf._g_a_s_p.ttx"/>
+  <FFTM src="AlmendraSC-BoldItalic.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="AlmendraSC-BoldItalic.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="AlmendraSC-BoldItalic.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="AlmendraSC-BoldItalic.ttf.G_S_U_B_.ttx"/>
+  <DSIG src="AlmendraSC-BoldItalic.ttf.D_S_I_G_.ttx"/>
+</ttFont>

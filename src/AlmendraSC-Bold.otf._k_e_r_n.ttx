@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="f" r="a" v="-7"/>
+      <pair l="l" r="t" v="-21"/>
+      <pair l="l" r="v" v="-14"/>
+      <pair l="l" r="w" v="-14"/>
+      <pair l="l" r="y" v="-14"/>
+      <pair l="p" r="a" v="-21"/>
+      <pair l="quotedblleft" r="a" v="-21"/>
+      <pair l="t" r="a" v="-5"/>
+      <pair l="v" r="period" v="-36"/>
+      <pair l="y" r="a" v="-10"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
